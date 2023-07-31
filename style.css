@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header_div{
+background-color: rgb(149,163,164);
+padding-bottom: 20px;
+}
+
+.main_div{
+    background-color: rgb(226,232,221);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.copyright_footer{
+    position:fixed;
+    color: darkgray;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px darkgray;
+}
